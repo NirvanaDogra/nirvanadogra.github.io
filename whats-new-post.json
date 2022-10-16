@@ -3,17 +3,20 @@
     {
       "heading": "Hello UIUC!",
       "subheading": "Starting a new journey",
-      "description": "I am excited to announce ..."
+      "description": "I am excited to announce ...",
+      "imgUrl": "https://nirvanadogra.github.io/alma_mater.jpeg"
     },
     {
       "heading": "Ram",
       "subheading": "ram@gmail.com",
-      "description": 23
+      "description": 23,
+      "imgUrl": "https://nirvanadogra.github.io/alma_mater.jpeg"
     },
     {
       "heading": "Ram",
       "subheading": "ram@gmail.com",
-      "description": 23
+      "description": 23,
+      "imgUrl": "https://nirvanadogra.github.io/alma_mater.jpeg"
     }
   ]
 }
