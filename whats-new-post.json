@@ -7,15 +7,15 @@
       "imageUrl": "https://nirvanadogra.github.io/alma_mater.jpeg"
     },
     {
-      "heading": "Ram",
-      "subheading": "ram@gmail.com",
-      "description": 23,
+      "heading": "Heading 1",
+      "subheading": "Subheading 1",
+      "description": "This is a sample description",
       "imageUrl": "https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
     },
     {
-      "heading": "Ram",
-      "subheading": "ram@gmail.com",
-      "description": 23,
+      "heading": "Heading 2",
+      "subheading": "Subheading 2",
+      "description": "This is a sample description",
       "imageUrl": "https://nirvanadogra.github.io/alma_mater.jpeg"
     }
   ]
