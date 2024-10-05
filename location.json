@@ -1,0 +1,73 @@
+{
+  "locations": [
+    {
+      "name": "The Avondale Coffee Club by Reprise Roasters",
+      "address": "3185 N. Elston Ave, Chicago, IL 60618",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "60618",
+      "phone": "(312) 877-3826",
+      "note": "text us!",
+      "hours": {
+        "sunday": "8am-4pm",
+        "monday": "8am-4pm",
+        "tuesday": "8am-4pm",
+        "wednesday": "8am-4pm",
+        "thursday": "8am-4pm",
+        "friday": "8am-4pm",
+        "saturday": "8am-5pm"
+      },
+      "menu_link": "View Menu",
+      "order_ahead_link": "Order Ahead & Pickup in Store"
+    },
+    {
+      "name": "Reprise Roasters",
+      "address": "710 Main Street, Evanston, IL 60202",
+      "city": "Evanston",
+      "state": "IL",
+      "zip_code": "60202",
+      "phone": "(312) 877-3826",
+      "note": "text us!",
+      "hours": {
+        "monday": "7:30am-4pm",
+        "tuesday": "7:30am-5pm",
+        "wednesday": "7:30am-5pm",
+        "thursday": "7:30am-5pm",
+        "friday": "7:30am-5pm",
+        "saturday": "8am-5pm",
+        "sunday": "8am-4pm"
+      },
+      "menu_link": "View Menu",
+      "order_ahead_link": "Order Ahead & Pickup in Store"
+    },
+    {
+      "name": "Northwestern University - Main Library",
+      "address": "Cafe Bergson, Evanston, IL 60202",
+      "city": "Evanston",
+      "state": "IL",
+      "zip_code": "60202",
+      "phone": "(312) 877-3826",
+      "note": "text us!",
+      "hours": {
+        "monday": "9am-7pm",
+        "tuesday": "9am-7pm",
+        "wednesday": "9am-7pm",
+        "thursday": "9am-7pm",
+        "friday": "9am-5pm",
+        "saturday": "closed",
+        "sunday": "9am-4pm"
+      }
+    }
+  ],
+  "local_partners": [
+    "Westown Bakery",
+    "Burlin Honey",
+    "Spirit Tea",
+    "Hugo Tea",
+    "Rare Tea Cellars",
+    "Kilgus Farmstead",
+    "Chobani",
+    "Sol Chai",
+    "Golden Root Inc."
+  ]
+}
