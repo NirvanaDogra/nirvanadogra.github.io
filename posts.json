@@ -1,0 +1,35 @@
+{
+  "post": [
+    {
+      "name": "Adam",
+      "role": "Founder",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f78c3dd364b340e4eeb15b/1626877926468-ZMV2H5FNIAG42YAJYDDK/Gold+Mountain+-+Best+Specialty+Coffee+Farms+in+Nicaragua?format=2500w",
+      "title": "Coffee from Nicaragua",
+      "subtitle": "Gold Mountain Bean",
+      "description": "We source most of our beans from Gold Mountain Coffee Growers, a direct trade farming group that connects farmers of exquisite coffee in Nicaragua with roasters like us."
+    },
+    {
+      "name": "Adam",
+      "role": "Founder",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f78c3dd364b340e4eeb15b/1626877659565-HOF8FUNK540PILEACVLJ/High+Quality+Coffee+Farm+Nicaragua+Natural+Honey+Process+Coffee?format=2500w",
+      "title": "Coffee from Nicaragua",
+      "subtitle": "Gold Mountain Bean",
+      "description": "We source most of our beans from Gold Mountain Coffee Growers, a direct trade farming group that connects farmers of exquisite coffee in Nicaragua with roasters like us."
+    },
+    {
+      "name": "Adam",
+      "role": "Founder",
+      "imageUrl": "",
+      "title": "Coffee from Nicaragua",
+      "subtitle": "Gold Mountain Bean",
+      "description": "We source most of our beans from Gold Mountain Coffee Growers, a direct trade farming group that connects farmers of exquisite coffee in Nicaragua with roasters like us."
+    }
+  ],
+  "pinned_post": [
+      {
+        "name": "Adam",
+        "role": "Founder",
+        "imageUrl":"https://images.squarespace-cdn.com/content/v1/60f78c3dd364b340e4eeb15b/1626877659565-HOF8FUNK540PILEACVLJ/High+Quality+Coffee+Farm+Nicaragua+Natural+Honey+Process+Coffee?format=2500w"
+      }
+  ]
+}
